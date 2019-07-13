@@ -1,0 +1,36 @@
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\bin\Debug\zipcikar.exe
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\bin\Debug\UpdaterSettings.json
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\bin\Debug\SoftwareUpdater.dll
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\bin\Debug\SoftwareUpdater.pdb
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmGuncelle.resources
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmGuncellemeBildirimi.resources
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmYenilikler.resources
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.Properties.Resources.resources
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.csproj.GenerateResource.Cache
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.dll
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\bin\Debug\zipcikar.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\bin\Debug\SoftwareUpdater.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\bin\Debug\SoftwareUpdater.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmGuncelle.resources
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmGuncellemeBildirimi.resources
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmYenilikler.resources
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.Properties.Resources.resources
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.csproj.GenerateResource.Cache
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\bin\Debug\UpdaterSettings.json
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\bin\Debug\zipcikar.exe
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\bin\Debug\UpdaterSettings.json
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\bin\Debug\SoftwareUpdater.dll
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\bin\Debug\SoftwareUpdater.pdb
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmGuncelle.resources
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmGuncellemeBildirimi.resources
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.frmYenilikler.resources
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.Properties.Resources.resources
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.csproj.GenerateResource.Cache
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.dll
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\SoftwareUpdater\obj\Debug\SoftwareUpdater.pdb

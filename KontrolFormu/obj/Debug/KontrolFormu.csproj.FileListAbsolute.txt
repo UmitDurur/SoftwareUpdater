@@ -1,0 +1,42 @@
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.Form1.resources
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.Properties.Resources.resources
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.csproj.GenerateResource.Cache
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.exe.config
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\zipcikar.exe
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\UpdaterSettings.json
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.exe
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.pdb
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\SoftwareUpdater.dll
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\SoftwareUpdater.pdb
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.exe
+F:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.pdb
+E:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.exe.config
+E:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.exe
+E:\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.exe.config
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\zipcikar.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\SoftwareUpdater.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\SoftwareUpdater.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.csprojResolveAssemblyReference.cache
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.Form1.resources
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.Properties.Resources.resources
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.csproj.GenerateResource.Cache
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015 Veriler\Projects\SoftwareUpdater\KontrolFormu\bin\Debug\UpdaterSettings.json
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.exe.config
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\bin\Debug\zipcikar.exe
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\bin\Debug\UpdaterSettings.json
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.exe
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\bin\Debug\KontrolFormu.pdb
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\bin\Debug\SoftwareUpdater.dll
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\bin\Debug\SoftwareUpdater.pdb
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.csprojResolveAssemblyReference.cache
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.Form1.resources
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.Properties.Resources.resources
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.csproj.GenerateResource.Cache
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.exe
+C:\Users\Ümit DURUR\Desktop\temp\SoftwareUpdater\KontrolFormu\obj\Debug\KontrolFormu.pdb

@@ -1,0 +1,7 @@
+{
+  "updater_api_service_address": "api_server_address",
+  "updater_ftp_address": "ftp_address",
+  "errorlog_file_path":"log/updaterError.log",
+  "ftp_username":"ftp_username",
+  "ftp_password":"ftp_pass_with_des_crypt"
+}

@@ -1,0 +1,7 @@
+#Fix Rewrite
+Options -Multiviews
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteBase /SoftwareUpdater/v1/
+RewriteRule versiyon/(.*)$ versiyon.php?request=$1 [QSA,NC,L]
